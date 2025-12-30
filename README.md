@@ -1,15 +1,18 @@
-# SOC Analyst Portfolio – Day 1
+# SOC Analyst Portfolio
 
 ## Overview
-This is the first day of my 30-day SOC Analyst hands-on portfolio project.
-Day 1 focuses on understanding Security Operations Center (SOC) fundamentals
-and the role of a SOC Analyst.
+This is my 30-day SOC Analyst hands-on portfolio project.
+Day 1 and Day 2 focus on understanding Security Operations Center (SOC) fundamentals,
+SOC workflow, and the role of a SOC Analyst within the Blue Team.
 
-## Day 1 Goals
+## Day Goals
 - Understand what a SOC is
 - Learn SOC Analyst roles and tiers
 - Learn SOC workflow and daily responsibilities
 - Document learnings for portfolio purposes
+- Learn Blue Team vs Red Team vs Purple Team
+- Understand SOC workflow step-by-step
+- Document a beginner-friendly scenario (Failed Login Alert)
 
 ## Key Learnings
 - **SOC Definition:** Centralized team monitoring, detecting, and responding to security incidents 24/7.
@@ -19,9 +22,15 @@ and the role of a SOC Analyst.
   - Tier 2: Investigation & incident response
   - Tier 3 / Threat Hunter: Advanced threat hunting & detection rules
 - **Daily Responsibilities:** Monitor alerts, analyze logs, investigate suspicious activities, create incident tickets, escalate incidents
+- **Blue Team vs Red Team vs Purple Team:**
+  - Red Team: Offensive security
+  - Blue Team: Defensive security (SOC Analyst)
+  - Purple Team: Collaboration between Red and Blue
 
-## File Added
+## Files Added
 - `day1-soc-overview.md` – Detailed documentation of SOC overview
+- `day2-soc-workflow.md` – Documentation of SOC workflow and Blue Team concepts
 
 ## Status
-✅ Day 1 complete
+- ✅ Day 1 complete
+- ✅ Day 2 complete
