@@ -23,7 +23,7 @@ The Echo Reply confirms successful connectivity between the source and destinati
 
 ## 2) DNS Analysis (Name Resolution)
 
-![DNS Analysis (Name Resolution)](images/DNS.png)
+![DNS Analysis (Name Resolution)](images/dns.png)
 
 ### Observations
 - **Source IP:** 192.168.100.20  
