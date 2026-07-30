@@ -6,7 +6,7 @@ This project simulates a small office network consisting of one router, one swit
 
 ## Network Topology
 
-![Network Topology](topology.png)
+![Network Topology](images/topology.png)
 
 ## Devices
 
