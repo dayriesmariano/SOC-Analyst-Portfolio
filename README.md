@@ -1,36 +1,46 @@
-# SOC Analyst Portfolio
+# Cybersecurity Portfolio
 
-## Overview
-This is my 30-day SOC Analyst hands-on portfolio project.
-Day 1 and Day 2 focus on understanding Security Operations Center (SOC) fundamentals,
-SOC workflow, and the role of a SOC Analyst within the Blue Team.
+Welcome to my cybersecurity portfolio. This repository showcases my hands-on learning, practical exercises, and technical documentation in various areas of cybersecurity.
 
-## Day Goals
-- Understand what a SOC is
-- Learn SOC Analyst roles and tiers
-- Learn SOC workflow and daily responsibilities
-- Document learnings for portfolio purposes
-- Learn Blue Team vs Red Team vs Purple Team
-- Understand SOC workflow step-by-step
-- Document a beginner-friendly scenario (Failed Login Alert)
+## About
 
-## Key Learnings
-- **SOC Definition:** Centralized team monitoring, detecting, and responding to security incidents 24/7.
-- **SOC Workflow:** Log collection → Detection → Alert Triage → Investigation → Response → Documentation
-- **SOC Analyst Tiers:**
-  - Tier 1: Monitoring & triage
-  - Tier 2: Investigation & incident response
-  - Tier 3 / Threat Hunter: Advanced threat hunting & detection rules
-- **Daily Responsibilities:** Monitor alerts, analyze logs, investigate suspicious activities, create incident tickets, escalate incidents
-- **Blue Team vs Red Team vs Purple Team:**
-  - Red Team: Offensive security
-  - Blue Team: Defensive security (SOC Analyst)
-  - Purple Team: Collaboration between Red and Blue
+The purpose of this repository is to document my cybersecurity journey and demonstrate practical skills through lab activities, investigations, and technical reports.
 
-## Files Added
-- `day1-soc-overview.md` – Detailed documentation of SOC overview
-- `day2-soc-workflow.md` – Documentation of SOC workflow and Blue Team concepts
+## Areas of Focus
 
-## Status
-- ✅ Day 1 complete
-- ✅ Day 2 complete
+- Security Operations Center (SOC)
+- Threat Detection and Analysis
+- Incident Response
+- Digital Forensics
+- Network Security
+- Vulnerability Assessment
+- Malware Analysis
+- Threat Intelligence
+
+## Skills
+
+- Log Analysis
+- Event Investigation
+- IOC Analysis
+- MITRE ATT&CK Mapping
+- Network Traffic Analysis
+- Windows Event Log Analysis
+- Documentation and Reporting
+
+## Tools
+
+- Splunk
+- Microsoft Sentinel
+- Wireshark
+- Sysmon
+- VirusTotal
+- Kali Linux
+- Windows Event Viewer
+
+## Repository Purpose
+
+This repository serves as a collection of cybersecurity documentation, technical write-ups, and practical exercises completed in laboratory environments.
+
+---
+
+**Note:** All activities were performed in authorized lab environments for educational and portfolio purposes.
