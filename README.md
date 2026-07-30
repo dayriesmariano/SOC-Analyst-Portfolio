@@ -1,59 +1,56 @@
-# Cybersecurity Portfolio
+# SOC Analyst Portfolio
 
-Welcome to my cybersecurity portfolio. This repository showcases my hands-on learning, practical exercises, and technical documentation in various areas of cybersecurity.
+Welcome to my SOC Analyst Portfolio.
 
-## About
+This repository showcases my hands-on cybersecurity projects, SOC investigations, and blue team labs completed throughout my learning journey toward becoming a Security Operations Center (SOC) Analyst.
 
-The purpose of this repository is to document my cybersecurity journey and demonstrate practical skills through lab activities, investigations, and technical reports.
+## Current Portfolio
 
-## Areas of Focus
+This portfolio currently includes projects covering:
 
-- Security Operations Center (SOC)
-- Threat Detection and Analysis
+- SOC Fundamentals
+- Threat Landscape Analysis
+- MITRE ATT&CK Framework
+- Network Traffic Analysis
+- DNS & HTTP Traffic Analysis
+- Vulnerability Assessment & Exploitation Labs
+- Post-Exploitation Analysis
+- Linux Log Analysis
+
+## Ongoing Projects
+
+This repository is continuously updated as I expand my cybersecurity knowledge and practical experience. Upcoming projects include:
+
+- Windows Event Log Analysis
+- Splunk Investigations
+- Microsoft Sentinel
+- Sysmon Analysis
+- Malware Analysis
+- Threat Hunting
 - Incident Response
 - Digital Forensics
-- Network Security
-- Vulnerability Assessment
-- Malware Analysis
-- Threat Intelligence
+- Detection Engineering
+- SIEM Use Cases
+- Blue Team Case Studies
+- CTF Write-ups
 
 ## Skills
 
+Throughout these projects, I continue to strengthen my skills in:
+
+- Security Monitoring
 - Log Analysis
-- Event Investigation
-- IOC Analysis
-- MITRE ATT&CK Mapping
+- Threat Detection
+- Incident Investigation
 - Network Traffic Analysis
-- Windows Event Log Analysis
-- Documentation and Reporting
+- Windows & Linux Log Analysis
+- MITRE ATT&CK Mapping
+- SIEM Fundamentals
+- Digital Forensics
+- Incident Response
 
-## Tools
+## Goal
 
-- Splunk
-- Microsoft Sentinel
-- Wireshark
-- Sysmon
-- VirusTotal
-- Kali Linux
-- Windows Event Viewer
-
-## Repository Purpose
-
-This repository serves as a collection of cybersecurity documentation, technical write-ups, and practical exercises completed in laboratory environments.
-
----
-
-**Note:** All activities were performed in authorized lab environments for educational and portfolio purposes.
-=======
-# Cisco Packet Tracer Network Engineering Portfolio
-
-Welcome to my Cisco Packet Tracer Network Engineering Portfolio.
-
-This repository showcases my hands-on networking projects and laboratory exercises created using Cisco Packet Tracer. It serves as a collection of practical implementations covering fundamental and enterprise networking concepts.
-
-Throughout these projects, I continuously develop and strengthen my skills in network design, routing, switching, VLAN implementation, IP addressing, network security, and troubleshooting.
-
-Each project is organized in its own folder and includes documentation, configuration files, network topology diagrams, and Packet Tracer files.
+My goal is to build a professional SOC Analyst portfolio by documenting practical labs, investigations, and security analysis exercises while continuously improving my technical and analytical skills.
 
 Thank you for visiting my portfolio.
-
