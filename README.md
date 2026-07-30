@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise Network Lab
 
 ## Overview
@@ -36,6 +37,10 @@ This project demonstrates an enterprise network designed in Cisco Packet Tracer 
 
 ![Ping](images/ping.png)
 
-## Author
+## DAYRIESMARIANO
 
 Created as a Cisco Packet Tracer networking laboratory project.
+=======
+# packettracer-network-engineering
+Cisco Packet Tracer labs and network engineering projects featuring VLAN configuration, routing, switching, and network topology implementations.
+>>>>>>> 3a182d1311483a2f83c21fdaa7d928ff1b73f572
