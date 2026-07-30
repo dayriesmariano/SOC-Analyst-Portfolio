@@ -1,46 +1,11 @@
-<<<<<<< HEAD
-# Enterprise Network Lab
+# Cisco Packet Tracer Network Engineering Portfolio
 
-## Overview
+Welcome to my Cisco Packet Tracer Network Engineering Portfolio.
 
-This project demonstrates an enterprise network designed in Cisco Packet Tracer using VLANs, VLAN Trunking, and Router-on-a-Stick.
+This repository showcases my hands-on networking projects and laboratory exercises created using Cisco Packet Tracer. It serves as a collection of practical implementations covering fundamental and enterprise networking concepts.
 
-## Network Topology
+Throughout these projects, I continuously develop and strengthen my skills in network design, routing, switching, VLAN implementation, IP addressing, network security, and troubleshooting.
 
-- Cisco 2911 Router
-- Core Switch
-- Access Switch A
-- Access Switch B
+Each project is organized in its own folder and includes documentation, configuration files, network topology diagrams, and Packet Tracer files.
 
-## VLANs
-
-| VLAN | Department | Network |
-|------|------------|----------------|
-|10|HR|192.168.10.0/24|
-|20|IT|192.168.20.0/24|
-|30|Finance|192.168.30.0/24|
-|40|Sales|192.168.40.0/24|
-
-## Features
-
-- VLAN Configuration
-- 802.1Q Trunking
-- Router-on-a-Stick
-- Inter-VLAN Routing
-- Static IP Addressing
-
-## Network Topology
-
-![Topology](images/topology2.png)
-
-## Inter-VLAN Ping Test
-
-![Ping](images/ping.png)
-
-## DAYRIESMARIANO
-
-Created as a Cisco Packet Tracer networking laboratory project.
-=======
-# packettracer-network-engineering
-Cisco Packet Tracer labs and network engineering projects featuring VLAN configuration, routing, switching, and network topology implementations.
->>>>>>> 3a182d1311483a2f83c21fdaa7d928ff1b73f572
+Thank you for visiting my portfolio.
