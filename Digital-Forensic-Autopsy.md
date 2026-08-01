@@ -2,78 +2,86 @@
 
 ## Objective
 
-Perform a digital forensic investigation using Autopsy to analyze Windows artifacts and recover forensic evidence.
+Perform a basic digital forensic investigation using Autopsy to analyze a Windows system image, identify digital artifacts, and recover forensic evidence.
 
 ---
 
 ## Lab Environment
 
 - Windows 10
-- Autopsy
-- Sample Windows Image
+- Autopsy Digital Forensics Platform
+- Windows Disk Image
 
 ---
 
 ## Tools Used
 
-- Autopsy Digital Forensics
+- Autopsy
+- Windows Operating System
 
 ---
 
-## 1. Install Autopsy
+## Autopsy Home
 
-![Autopsy Installation](images/autopsy-installation.png)
+The Autopsy Digital Forensics Platform was launched to begin the forensic investigation and create a new case.
 
----
-
-## 2. Create a New Case
-
-![Case Information](images/case-information.png)
+![Autopsy Home](images/autopsy-home.png)
 
 ---
 
-## 3. Configure Ingest Modules
+## Configure Ingest Modules
 
-![Configure Ingest Modules](images/configure-ingest-modules.png)
+Ingest modules were configured to process the evidence source and automatically extract forensic artifacts such as web history, installed applications, user accounts, and thumbnail cache.
 
----
-
-## 4. Review Installed Programs
-
-![Installed Programs](images/installed-programs.png)
+![Configure Ingest Modules](images/configureinterest.png)
 
 ---
 
-## 5. Analyze Artifacts of Interest
+## Installed Programs
 
-![Artifacts of Interest](images/artifacts-of-interest.png)
+The installed applications on the Windows system were examined to identify software that may be relevant to the investigation or indicate suspicious activity.
+
+![Installed Programs](images/installedprogram.png)
 
 ---
 
-## 6. Recover Thumbnail Cache
+## Artifacts of Interest
+
+Autopsy identified multiple forensic artifacts, including user activity, operating system information, and other evidence that may assist investigators during forensic analysis.
+
+![Artifacts of Interest](images/artifactsofinterest.png)
+
+---
+
+## Recovered Thumbnail
+
+Autopsy successfully recovered a cached thumbnail from the Windows thumbnail cache. Even if the original image has been deleted, thumbnail cache artifacts can remain and provide valuable forensic evidence.
 
 ![Recovered Thumbnail](images/recovered-thumbnail.png)
-
-Autopsy recovered a cached thumbnail from **thumbcache_32.db**, demonstrating how thumbnail cache artifacts can provide evidence that an image was viewed on the system even if the original image has been deleted.
 
 ---
 
 ## Findings
 
-- Successfully created a forensic case.
-- Configured Autopsy ingest modules.
-- Identified installed applications.
+- Successfully created a forensic investigation using Autopsy.
+- Configured ingest modules for automated evidence processing.
+- Identified installed software on the target system.
 - Examined Windows forensic artifacts.
-- Recovered thumbnail cache evidence.
+- Recovered thumbnail cache evidence from the Windows system.
 
 ---
 
-## Digital Forensic Significance
+## Skills Demonstrated
 
-Windows thumbnail cache can preserve evidence of previously viewed images. This artifact is useful during forensic investigations because it may remain available even after the original file has been removed.
+- Digital Forensics
+- Windows Artifact Analysis
+- Evidence Collection
+- Incident Investigation
+- Autopsy Digital Forensics
+- Digital Evidence Recovery
 
 ---
 
 ## Conclusion
 
-This laboratory exercise demonstrates the use of Autopsy to collect, analyze, and interpret Windows forensic artifacts. The investigation successfully identified system information, user artifacts, and recovered thumbnail cache evidence, highlighting the importance of digital forensics in incident response and criminal investigations.
+This laboratory exercise demonstrates the use of Autopsy to perform a basic digital forensic investigation. The examination successfully identified installed applications, analyzed Windows forensic artifacts, and recovered thumbnail cache evidence. These findings illustrate how digital forensic tools support incident response, evidence collection, and forensic investigations.
