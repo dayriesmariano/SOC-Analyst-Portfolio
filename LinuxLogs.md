@@ -6,7 +6,7 @@
 - Sudo session opened by user1  
 
 ## Evidence
-![Linux Logs Screenshot](linuxlogs.png)
+![images](linuxlogs.png)
 
 ## Conclusion
 Authentication logs show normal sudo usage but failed root login attempts may indicate brute‑force activity.

@@ -28,7 +28,7 @@ The DNS traffic showed communication between:
 I also observed repeated DNS requests and responses, which can be an indicator of suspicious or automated lookup behavior.
 
 ### Screenshot
-![Suspicious DNS Traffic](images/dnshttp.png)
+![images](images/dnshttp.png)
 
 ### Analysis
 The domain used in this activity is a test domain, but its pattern demonstrates how suspicious DNS traffic may appear in a real investigation. Security analysts monitor DNS traffic for:

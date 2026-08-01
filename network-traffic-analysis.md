@@ -7,7 +7,7 @@ To capture and analyze network traffic using **Wireshark** and identify how prot
 
 ## 1) ICMP Analysis (Ping Test)
 
-![ICMP Analysis (Ping Test)](images/icmp.png)
+![ICMP Analysis (images)](images/icmp.png)
 
 ### Observations
 - **Source IP:** 192.168.100.20  
@@ -23,7 +23,7 @@ The Echo Reply confirms successful connectivity between the source and destinati
 
 ## 2) DNS Analysis (Name Resolution)
 
-![DNS Analysis (Name Resolution)](images/dns.png)
+![DNS Analysis (images)](images/dns.png)
 
 ### Observations
 - **Source IP:** 192.168.100.20  
@@ -42,7 +42,7 @@ The DNS response provided the corresponding IP address, allowing communication w
 
 ## 3) TCP 3-Way Handshake (Connection Establishment)
 
-![TCP 3-Way Handshake](images/tcp-handshake.png)
+![images](images/tcp-handshake.png)
 
 ### Observations
 - **Source Port:** Random (client side)  
