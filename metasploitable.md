@@ -1,4 +1,4 @@
-# Metasploitable 2 VSFTPD 2.3.4 Exploitation Lab using Metasploit
+# Metasploitable VSFTPD 2.3.4 Exploitation Lab using Metasploit
 
 ## Overview
 
