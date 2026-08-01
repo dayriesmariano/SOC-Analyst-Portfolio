@@ -57,7 +57,7 @@ Autopsy identified multiple forensic artifacts, including user activity, operati
 
 Autopsy successfully recovered a cached thumbnail from the Windows thumbnail cache. Even if the original image has been deleted, thumbnail cache artifacts can remain and provide valuable forensic evidence.
 
-![Recovered Thumbnail](images/recovered-thumbnail.png)
+![Recovered Thumbnail](images/RECOVEREDTHUMBNAIL.png)
 
 ---
 
