@@ -1,4 +1,4 @@
-#Day 3 Threat Landscape & Mitre Attack
+#Threat Landscape & Mitre Attack
 
 ## Objective
 To understand common cyber threats handled by a SOC and learn how the MITRE ATT&CK framework helps SOC analysts identify and classify attacker 

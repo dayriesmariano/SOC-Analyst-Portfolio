@@ -13,9 +13,9 @@ This portfolio currently includes projects covering:
 - MITRE ATT&CK Framework
 - Network Traffic Analysis
 - DNS & HTTP Traffic Analysis
-- Vulnerability Assessment & Exploitation Labs
-- Post-Exploitation Analysis
+- Metasploitable-exploit
 - Linux Log Analysis
+- Digital Firensic Autopsy
 
 ## Ongoing Projects
 
