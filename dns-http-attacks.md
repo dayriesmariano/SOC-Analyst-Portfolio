@@ -1,4 +1,4 @@
-# Day 5 – DNS & HTTP Attacks
+#DNS & HTTP Attacks
 
 ## Activity: Identify Suspicious DNS Traffic
 

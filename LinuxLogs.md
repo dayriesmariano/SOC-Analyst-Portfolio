@@ -1,4 +1,4 @@
-# Linux Log Report – Day 8
+# Linux Log Report 
 
 ## Findings
 - Successful login by user1 from 192.168.1.10  

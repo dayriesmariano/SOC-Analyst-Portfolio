@@ -1,4 +1,4 @@
-# Day 1 - SOC Overview
+#  SOC Overview
 
 ## What is a Security Operations Center (SOC)?
 A security Operations Center (SOC) is a centralized team respomsible for monitoring, detecting, analyzing, and responding to cybersecurity incidents within an organization on a 24/7 basis.

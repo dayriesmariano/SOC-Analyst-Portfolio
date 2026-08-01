@@ -1,4 +1,4 @@
-# Day 4 – OSI & TCP/IP Traffic Analysis using Wireshark
+#OSI & TCP/IP Traffic Analysis using Wireshark
 
 ## Objective
 To capture and analyze network traffic using **Wireshark** and identify how protocols function under the **OSI** and **TCP/IP** models.

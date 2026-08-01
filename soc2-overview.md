@@ -1,4 +1,4 @@
-# Day 2 - SOC Workflow & Blue Team
+# SOC Workflow & Blue Team
 
 ## Overview
 Day 2 focuses on understanding the SOC workflow in detail and the different between Blue Team, Red Team, and Purple Team. This helps in knowing where a SOC analyst fit.
