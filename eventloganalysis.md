@@ -43,8 +43,8 @@ After opening Event Viewer, the Overview and Summary page is displayed.
 Expand:
 
 ```
-Windows Logs
-    └── Security
+Windo Logs
+    Security
 ```
 
 This log stores authentication and security-related events.
