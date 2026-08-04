@@ -1,4 +1,4 @@
-# Screenshots
+# OSINT FRAMEWORK INVESTIGATION 
 
 ## 1. Opening the OSINT Framework
 
